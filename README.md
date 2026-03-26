@@ -1,7 +1,8 @@
 # Real-Time Sales Dashboard
 
-End-to-end data science project: REST API + interactive dashboard for retail sales analytics and forecasting.
-
+🔗 **Live API:** https://your-api-url.onrender.com  
+🔗 **Live Dashboard:** https://your-dashboard-url.onrender.com  
+📖 **API Docs:** https://your-api-url.onrender.com/docs
 ## Stack
 - **Data:** pandas, numpy
 - **ML / Forecasting:** scikit-learn (LinearRegression)
