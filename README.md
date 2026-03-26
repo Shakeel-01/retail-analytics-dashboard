@@ -1,7 +1,7 @@
 # Real-Time Sales Dashboard
 
 🔗 **Live API:** https://retail-analytics-api-wnev.onrender.com
-🔗 **Live Dashboard:**https://retail-analytics-dashboard.onrender.com  
+🔗 **Live Dashboard:** https://retail-analytics-dashboard.onrender.com  
 📖 **API Docs:** https://retail-analytics-api-wnev.onrender.com/docs
 ## Stack
 - **Data:** pandas, numpy
