@@ -1,8 +1,8 @@
 # Real-Time Sales Dashboard
 
-🔗 **Live API:** https://your-api-url.onrender.com  
-🔗 **Live Dashboard:** https://your-dashboard-url.onrender.com  
-📖 **API Docs:** https://your-api-url.onrender.com/docs
+🔗 **Live API:** https://retail-analytics-api-wnev.onrender.com
+🔗 **Live Dashboard:**https://retail-analytics-dashboard.onrender.com  
+📖 **API Docs:** https://retail-analytics-api-wnev.onrender.com/docs
 ## Stack
 - **Data:** pandas, numpy
 - **ML / Forecasting:** scikit-learn (LinearRegression)
