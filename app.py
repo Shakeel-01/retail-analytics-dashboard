@@ -6,7 +6,7 @@ import plotly.express as px
 # ---------------------------------------------------------------------------
 # Config
 # ---------------------------------------------------------------------------
-BASE_URL = "http://localhost:8000"   # change to deployed URL after deploy
+BASE_URL = "https://retail-analytics-api-wnev.onrender.com"
 
 st.set_page_config(
     page_title="Sales Dashboard",
